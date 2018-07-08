@@ -303,7 +303,7 @@ class WC_Gateway_POP extends WC_Payment_Gateway {
 	}
 
 	/**
-	 * Change payment complete order status to completed for COD orders.
+	 * Change payment complete order status to completed for POP orders.
 	 *
 	 * @since  3.1.0
 	 * @param  string         $status Current order status.

@@ -3,11 +3,11 @@
  * Plugin Name: WooCommerce Pay on Pickup
  * Plugin URI: https://github.com/ouija/WC_Gateway_POP
  * Description: Extends WooCommerce by adding a payment option of pay on pickup.
- * Version: 1.4
+ * Version: 2.1.0
  * Requires at least: 4.0
- * Tested up to: 5.3
- * WC requires at least: 2.5
- * WC tested up to: 3.8
+ * Tested up to: 5.6
+ * WC requires at least: 3.0
+ * WC tested up to: 4.9
  * Author: ouija
  * Author URI: http://ouija.xyz
  * License: GPLv2 or later
